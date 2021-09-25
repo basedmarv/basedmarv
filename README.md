@@ -5,7 +5,7 @@
 * 🌱 I am currently working on achieving my certification as a AWS Cloud Practioner
 
 ## Languages
-![Python]https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"/>]
 <!--
 **basedmarv/basedmarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
