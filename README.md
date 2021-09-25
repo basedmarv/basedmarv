@@ -1,8 +1,11 @@
-###  Hi! My name's Marvin 👋
-* ⚡ I am a Computer Engineering Graduate from UC Irvine and develop software using Python/C++
+#  Hi! My name's Marvin 👋
+* ⚡ I am a recent Computer Engineering Graduate from UC Irvine searching for software engineering/development opportunities
 * 😄 I love to play volleyball and creating playlists on Spotify 
-* 📫 You can contact me through email: sabasmarvin@yahoo.com and/or LinkedIn:https://www.linkedin.com/in/marvinsabas/
-* 🌱 I am currently searching for software engineering/development opportunities and am working on achieving my certification as a AWS Cloud Practioner
+* 📫 You can contact me through email: sabasmarvin@yahoo.com and/or [LinkedIn]https://www.linkedin.com/in/marvinsabas/
+* 🌱 I am currently working on achieving my certification as a AWS Cloud Practioner
+
+## Languages
+https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg 
 <!--
 **basedmarv/basedmarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
