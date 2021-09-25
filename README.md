@@ -5,12 +5,12 @@
 * 🌱 I am currently working on achieving my certification as a AWS Cloud Practioner
 
 ## Languages
-#### Proficient
+**Proficient**:
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"/>
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg"/>
 <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg"/>
 
-#### Familiar
+**Familiar**:
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg"/>
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg"/>
 
