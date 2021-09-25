@@ -1,7 +1,7 @@
 #  Hi! My name's Marvin 👋
 * ⚡ I am a recent Computer Engineering Graduate from UC Irvine searching for software engineering/development opportunities
 * 😄 I love to play volleyball and creating playlists on Spotify 
-* 📫 You can contact me through email: sabasmarvin@yahoo.com and/or [LinkedIn]https://www.linkedin.com/in/marvinsabas/
+* 📫 You can contact me through email: sabasmarvin@yahoo.com and/or [LinkedIn](https://www.linkedin.com/in/marvinsabas/)
 * 🌱 I am currently working on achieving my certification as a AWS Cloud Practioner
 
 ## Languages & Tools
