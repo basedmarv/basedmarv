@@ -10,8 +10,8 @@
 <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg"/>
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg"/>
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg"/>
-<img align="left" alt="VSCode" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg"/>
-<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg"/>
+<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg"/>
+<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg"/>
 <!--
 **basedmarv/basedmarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
