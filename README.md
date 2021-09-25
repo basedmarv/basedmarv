@@ -7,7 +7,7 @@
 ## Languages (Proficient)
 [<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"/>
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg"/>
-<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg"/>]
+<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg"/>][stuff]
 
 
 ## Languages (Familiar)
