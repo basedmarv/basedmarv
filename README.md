@@ -1,8 +1,8 @@
 #  Hi! My name's Marvin 👋
 * ⚡ I am a recent Computer Engineering Graduate from UC Irvine
 * 😄 I love to play volleyball and creating playlists on Spotify 
-* 📫 You can contact me through email: sabasmarvin@yahoo.com and/or [LinkedIn](https://www.linkedin.com/in/marvinsabas/)
-* 🌱 I am currently working on achieving my certification as a AWS Cloud Practioner
+* 📫 You can contact me through email: sabasmarvinn@gmail.com and/or [LinkedIn](https://www.linkedin.com/in/marvinsabas/)
+* 🌱 I am currently working on improving my full-stack development experience using HTML/CSS/JS/React
 
 ## Languages & Tools
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"/>
